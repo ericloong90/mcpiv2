@@ -3,9 +3,9 @@
 #Raspberry Pi, Minecraft - Minecraft 'stuff' extensions
 
 #import the minecraft.py module 
-import minecraft
+from mcpi import minecraft
 #import block.py module
-import block
+from mcpi import block
 #import copy, to copy objects
 import copy
 #import time to use delays
